@@ -19,8 +19,7 @@ Ridizajnimi i platformes ekzistuese Merrjep.com
 | Lorika Zyrapi | UI Design & Documentation |
 
 ## Projekti
-Ridizajnimi i UX/UI të platformës MerrJep —
-platforma #1 e tregtisë second-hand në Kosovë.
+Ridizajnimi i UX/UI të platformës MerrJep, platforma #1 e tregtisë 'mix' në Kosovë.
 
 ## Deliverables
 - [x] Raporti 1 — Kickoff Report

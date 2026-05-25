@@ -25,10 +25,10 @@ Ridizajnimi i UX/UI të platformës MerrJep, platforma #1 e tregtisë 'mix' në 
 - [x] Raporti 1 — Kickoff Report
 - [x] User Personas
 - [x] User Journey Map
-- [ ] Wireframes (low-fi)
-- [ ] Prototype (high-fi)
-- [ ] Usability Testing
-- [ ] Raporti Final
+- [x] Wireframes (low-fi)
+- [x] Prototype (high-fi)
+- [x] Usability Testing
+- [x] Raporti Final
 
 ## Figma
 https://www.figma.com/team_invite/redeem/OJe6Q3Wpj82jSFjyaXU1Zo?t=rlJR9ovAdx4CyojU-21
